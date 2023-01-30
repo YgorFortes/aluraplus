@@ -68,6 +68,10 @@ body{
     width: 80%;
 }
 
+.container__caixa {
+    margin: 0 6em;
+}
+
 .secundario {
     align-items: center;
     margin: 0 10em;
