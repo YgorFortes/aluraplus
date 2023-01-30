@@ -41,7 +41,7 @@ body{
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
-    margin: 1em;
+    margin-bottom: 1em;
 }
 
 .container__botao:hover{
